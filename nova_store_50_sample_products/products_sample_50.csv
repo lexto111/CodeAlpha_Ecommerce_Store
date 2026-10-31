@@ -1,0 +1,51 @@
+﻿name,category,description,price,stock,image_url
+Samsung Galaxy M35 5G,Mobiles,"6.6-inch Super AMOLED display, 5G connectivity, 6000mAh battery and versatile camera system.",18999.00,15,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Apple iPhone 15,Mobiles,"Apple smartphone with advanced dual-camera system, bright display and USB-C connectivity.",54999.00,10,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Redmi Note 14 5G,Mobiles,"5G smartphone with AMOLED display, fast charging and a high-resolution camera.",17499.00,20,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+OnePlus Nord CE 4,Mobiles,"Smooth AMOLED display, 5G performance and fast charging for everyday use.",24999.00,12,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Motorola Edge 50 Fusion,Mobiles,"Slim smartphone with pOLED display, 5G support and optical image stabilization.",22999.00,9,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Google Pixel 8a,Mobiles,Smartphone with clean Android experience and computational photography features.,39999.00,6,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Realme Narzo 70 Pro,Mobiles,Everyday 5G smartphone with bright display and capable camera.,18999.00,14,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Nothing Phone 2a,Mobiles,"Distinctive smartphone design, smooth display and clean software experience.",23999.00,11,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Vivo T3 5G,Mobiles,5G smartphone with AMOLED screen and fast performance.,19999.00,13,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Poco X6 Pro,Mobiles,Performance-focused smartphone with high-refresh-rate display.,24999.00,8,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+HP Pavilion 15 Laptop,Laptops,"15.6-inch laptop for productivity, study and everyday multitasking.",55990.00,8,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Dell Inspiron 15,Laptops,"Reliable 15-inch laptop for office work, browsing and learning.",49990.00,12,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Lenovo IdeaPad Slim 3,Laptops,Slim everyday laptop suitable for students and office productivity.,42990.00,10,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+ASUS VivoBook 15,Laptops,Lightweight laptop with full-size keyboard and everyday performance.,46990.00,7,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Acer Aspire 5,Laptops,"Versatile laptop for study, work and home computing.",45990.00,9,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Apple MacBook Air M2,Laptops,Thin and light laptop with Apple silicon and long battery life.,89990.00,5,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Lenovo LOQ Gaming Laptop,Laptops,Gaming laptop with dedicated graphics and a high-refresh-rate screen.,79990.00,4,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+HP 14s Laptop,Laptops,Compact laptop for everyday computing and online classes.,38990.00,11,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Sony WH-1000XM5 Headphones,Audio,Wireless noise-cancelling headphones with comfortable over-ear design.,24990.00,7,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+boAt Rockerz 450,Audio,Wireless over-ear headphones for music and daily listening.,1499.00,25,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+JBL Tune 770NC,Audio,Wireless headphones with adaptive noise cancelling and long battery life.,5999.00,16,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+Apple AirPods 3rd Gen,Audio,True wireless earbuds with spatial audio and charging case.,14900.00,10,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+Samsung Galaxy Buds FE,Audio,Compact wireless earbuds with active noise cancellation.,6999.00,18,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+JBL Flip 6 Speaker,Audio,Portable waterproof Bluetooth speaker for indoor and outdoor listening.,9999.00,10,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+boAt Stone 350 Speaker,Audio,Portable Bluetooth speaker with compact design.,1799.00,22,https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80
+Apple Watch SE,Wearables,"Smartwatch with fitness tracking, notifications and activity rings.",24900.00,8,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80
+Noise ColorFit Pro 5,Wearables,"Smartwatch with health tracking, notifications and customizable watch faces.",2499.00,20,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80
+Samsung Galaxy Watch 6,Wearables,"Smartwatch with fitness features, sleep tracking and bright display.",18999.00,6,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80
+Amazfit Bip 5,Wearables,"Smartwatch with GPS features, activity tracking and long battery life.",3999.00,14,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80
+Fire-Boltt Phoenix Pro,Wearables,Budget smartwatch with calling and fitness tracking features.,1799.00,19,https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80
+Canon EOS 1500D DSLR,Cameras,Entry-level DSLR camera kit for photography learners and hobbyists.,39999.00,5,https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80
+Sony Alpha ZV-E10,Cameras,"Mirrorless camera designed for creators, video and photography.",62990.00,3,https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80
+Nikon D7500 DSLR,Cameras,DSLR camera for enthusiasts with advanced shooting controls.,74990.00,2,https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80
+Logitech C920 HD Webcam,Accessories,"Full HD webcam for video calls, streaming and remote meetings.",5999.00,17,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Logitech Wireless Mouse,Accessories,Wireless optical mouse with ergonomic shape for everyday computing.,799.00,30,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Logitech K380 Keyboard,Accessories,Compact multi-device Bluetooth keyboard for desk and mobile use.,2995.00,21,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Mechanical Gaming Keyboard,Accessories,Mechanical-style gaming keyboard with customizable lighting.,2499.00,15,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+SanDisk 128GB USB Drive,Accessories,"Portable USB storage drive for documents, photos and backups.",999.00,28,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Samsung 1TB Portable SSD,Storage,Portable solid-state drive for fast file transfers and backups.,8999.00,9,https://images.unsplash.com/photo-1597872200969-2b65d7f3e4e2?auto=format&fit=crop&w=900&q=80
+TP-Link Wi-Fi 6 Router,Networking,Dual-band Wi-Fi router for stable home and small-office connectivity.,4999.00,8,https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80
+Samsung 24-inch Monitor,Monitors,"Full HD monitor for work, study and home entertainment.",10999.00,10,https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80
+LG 27-inch IPS Monitor,Monitors,27-inch IPS monitor with clear visuals for productivity.,16999.00,6,https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80
+Acer Nitro 24-inch Gaming Monitor,Monitors,Gaming monitor with high refresh rate and responsive display.,12999.00,5,https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80
+Xiaomi 43-inch Smart TV,Televisions,43-inch smart television with streaming apps and high-definition picture.,24999.00,4,https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80
+Samsung 55-inch Crystal UHD TV,Televisions,"55-inch 4K smart TV for movies, sports and streaming.",44999.00,3,https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80
+Mi Power Bank 20000mAh,Accessories,High-capacity portable power bank for compatible mobile devices.,1999.00,24,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Anker 30W USB-C Charger,Accessories,Compact USB-C wall charger for compatible phones and tablets.,1799.00,18,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Portronics Laptop Stand,Accessories,Adjustable laptop stand to improve desk ergonomics.,1299.00,16,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+Amazon Basics Laptop Sleeve 15.6,Accessories,Protective sleeve for carrying compatible laptops.,899.00,20,https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80
+SanDisk 256GB microSD Card,Storage,Removable storage card for compatible cameras and mobile devices.,1899.00,13,https://images.unsplash.com/photo-1597872200969-2b65d7f3e4e2?auto=format&fit=crop&w=900&q=80

@@ -1,0 +1,25 @@
+NOVA STORE — 50 SAMPLE PRODUCTS
+
+Your Django Product model has these fields:
+name, description, price, image_url, stock.
+The category is included at the start of each description because the current model
+does not have a separate category field.
+
+IMPORT (recommended):
+1. Copy products_fixture.json into the Django project root, next to manage.py.
+2. Open PowerShell in that folder.
+3. Run:
+   python manage.py loaddata products_fixture.json
+
+If your virtual environment's Python is required, use its full python.exe path:
+   C:\path\to\venv\Scripts\python.exe manage.py loaddata products_fixture.json
+
+IMPORTANT:
+- Back up db.sqlite3 before importing.
+- Fixture product IDs are 1–50. If those IDs already exist, the fixture may overwrite
+  records with matching primary keys. If you already have products you want to keep,
+  tell me before importing and I can prepare a non-overwriting import script.
+- The CSV is for viewing/editing in Excel; Django loaddata imports the JSON fixture,
+  not the CSV.
+- These are sample/demo products and illustrative prices/stock, not live offers.
+- Product images use remote Unsplash image URLs and require an internet connection.

@@ -1,0 +1,552 @@
+[
+  {
+    "model": "shop.product",
+    "pk": 1,
+    "fields": {
+      "name": "Samsung Galaxy M35 5G",
+      "description": "Category: Mobiles. 6.6-inch Super AMOLED display, 5G connectivity, 6000mAh battery and versatile camera system.",
+      "price": "18999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 15
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 2,
+    "fields": {
+      "name": "Apple iPhone 15",
+      "description": "Category: Mobiles. Apple smartphone with advanced dual-camera system, bright display and USB-C connectivity.",
+      "price": "54999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 10
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 3,
+    "fields": {
+      "name": "Redmi Note 14 5G",
+      "description": "Category: Mobiles. 5G smartphone with AMOLED display, fast charging and a high-resolution camera.",
+      "price": "17499.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 20
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 4,
+    "fields": {
+      "name": "OnePlus Nord CE 4",
+      "description": "Category: Mobiles. Smooth AMOLED display, 5G performance and fast charging for everyday use.",
+      "price": "24999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 12
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 5,
+    "fields": {
+      "name": "Motorola Edge 50 Fusion",
+      "description": "Category: Mobiles. Slim smartphone with pOLED display, 5G support and optical image stabilization.",
+      "price": "22999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 9
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 6,
+    "fields": {
+      "name": "Google Pixel 8a",
+      "description": "Category: Mobiles. Smartphone with clean Android experience and computational photography features.",
+      "price": "39999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 6
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 7,
+    "fields": {
+      "name": "Realme Narzo 70 Pro",
+      "description": "Category: Mobiles. Everyday 5G smartphone with bright display and capable camera.",
+      "price": "18999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 14
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 8,
+    "fields": {
+      "name": "Nothing Phone 2a",
+      "description": "Category: Mobiles. Distinctive smartphone design, smooth display and clean software experience.",
+      "price": "23999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 11
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 9,
+    "fields": {
+      "name": "Vivo T3 5G",
+      "description": "Category: Mobiles. 5G smartphone with AMOLED screen and fast performance.",
+      "price": "19999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 13
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 10,
+    "fields": {
+      "name": "Poco X6 Pro",
+      "description": "Category: Mobiles. Performance-focused smartphone with high-refresh-rate display.",
+      "price": "24999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 8
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 11,
+    "fields": {
+      "name": "HP Pavilion 15 Laptop",
+      "description": "Category: Laptops. 15.6-inch laptop for productivity, study and everyday multitasking.",
+      "price": "55990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 8
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 12,
+    "fields": {
+      "name": "Dell Inspiron 15",
+      "description": "Category: Laptops. Reliable 15-inch laptop for office work, browsing and learning.",
+      "price": "49990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 12
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 13,
+    "fields": {
+      "name": "Lenovo IdeaPad Slim 3",
+      "description": "Category: Laptops. Slim everyday laptop suitable for students and office productivity.",
+      "price": "42990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 10
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 14,
+    "fields": {
+      "name": "ASUS VivoBook 15",
+      "description": "Category: Laptops. Lightweight laptop with full-size keyboard and everyday performance.",
+      "price": "46990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 7
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 15,
+    "fields": {
+      "name": "Acer Aspire 5",
+      "description": "Category: Laptops. Versatile laptop for study, work and home computing.",
+      "price": "45990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 9
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 16,
+    "fields": {
+      "name": "Apple MacBook Air M2",
+      "description": "Category: Laptops. Thin and light laptop with Apple silicon and long battery life.",
+      "price": "89990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 5
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 17,
+    "fields": {
+      "name": "Lenovo LOQ Gaming Laptop",
+      "description": "Category: Laptops. Gaming laptop with dedicated graphics and a high-refresh-rate screen.",
+      "price": "79990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 4
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 18,
+    "fields": {
+      "name": "HP 14s Laptop",
+      "description": "Category: Laptops. Compact laptop for everyday computing and online classes.",
+      "price": "38990.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 11
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 19,
+    "fields": {
+      "name": "Sony WH-1000XM5 Headphones",
+      "description": "Category: Audio. Wireless noise-cancelling headphones with comfortable over-ear design.",
+      "price": "24990.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 7
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 20,
+    "fields": {
+      "name": "boAt Rockerz 450",
+      "description": "Category: Audio. Wireless over-ear headphones for music and daily listening.",
+      "price": "1499.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 25
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 21,
+    "fields": {
+      "name": "JBL Tune 770NC",
+      "description": "Category: Audio. Wireless headphones with adaptive noise cancelling and long battery life.",
+      "price": "5999.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 16
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 22,
+    "fields": {
+      "name": "Apple AirPods 3rd Gen",
+      "description": "Category: Audio. True wireless earbuds with spatial audio and charging case.",
+      "price": "14900.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 10
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 23,
+    "fields": {
+      "name": "Samsung Galaxy Buds FE",
+      "description": "Category: Audio. Compact wireless earbuds with active noise cancellation.",
+      "price": "6999.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 18
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 24,
+    "fields": {
+      "name": "JBL Flip 6 Speaker",
+      "description": "Category: Audio. Portable waterproof Bluetooth speaker for indoor and outdoor listening.",
+      "price": "9999.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 10
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 25,
+    "fields": {
+      "name": "boAt Stone 350 Speaker",
+      "description": "Category: Audio. Portable Bluetooth speaker with compact design.",
+      "price": "1799.00",
+      "image_url": "https://images.unsplash.com/photo-1505740420928-5e560c06d30e?auto=format&fit=crop&w=900&q=80",
+      "stock": 22
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 26,
+    "fields": {
+      "name": "Apple Watch SE",
+      "description": "Category: Wearables. Smartwatch with fitness tracking, notifications and activity rings.",
+      "price": "24900.00",
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "stock": 8
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 27,
+    "fields": {
+      "name": "Noise ColorFit Pro 5",
+      "description": "Category: Wearables. Smartwatch with health tracking, notifications and customizable watch faces.",
+      "price": "2499.00",
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "stock": 20
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 28,
+    "fields": {
+      "name": "Samsung Galaxy Watch 6",
+      "description": "Category: Wearables. Smartwatch with fitness features, sleep tracking and bright display.",
+      "price": "18999.00",
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "stock": 6
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 29,
+    "fields": {
+      "name": "Amazfit Bip 5",
+      "description": "Category: Wearables. Smartwatch with GPS features, activity tracking and long battery life.",
+      "price": "3999.00",
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "stock": 14
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 30,
+    "fields": {
+      "name": "Fire-Boltt Phoenix Pro",
+      "description": "Category: Wearables. Budget smartwatch with calling and fitness tracking features.",
+      "price": "1799.00",
+      "image_url": "https://images.unsplash.com/photo-1523275335684-37898b6baf30?auto=format&fit=crop&w=900&q=80",
+      "stock": 19
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 31,
+    "fields": {
+      "name": "Canon EOS 1500D DSLR",
+      "description": "Category: Cameras. Entry-level DSLR camera kit for photography learners and hobbyists.",
+      "price": "39999.00",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80",
+      "stock": 5
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 32,
+    "fields": {
+      "name": "Sony Alpha ZV-E10",
+      "description": "Category: Cameras. Mirrorless camera designed for creators, video and photography.",
+      "price": "62990.00",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80",
+      "stock": 3
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 33,
+    "fields": {
+      "name": "Nikon D7500 DSLR",
+      "description": "Category: Cameras. DSLR camera for enthusiasts with advanced shooting controls.",
+      "price": "74990.00",
+      "image_url": "https://images.unsplash.com/photo-1516035069371-29a1b244cc32?auto=format&fit=crop&w=900&q=80",
+      "stock": 2
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 34,
+    "fields": {
+      "name": "Logitech C920 HD Webcam",
+      "description": "Category: Accessories. Full HD webcam for video calls, streaming and remote meetings.",
+      "price": "5999.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 17
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 35,
+    "fields": {
+      "name": "Logitech Wireless Mouse",
+      "description": "Category: Accessories. Wireless optical mouse with ergonomic shape for everyday computing.",
+      "price": "799.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 30
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 36,
+    "fields": {
+      "name": "Logitech K380 Keyboard",
+      "description": "Category: Accessories. Compact multi-device Bluetooth keyboard for desk and mobile use.",
+      "price": "2995.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 21
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 37,
+    "fields": {
+      "name": "Mechanical Gaming Keyboard",
+      "description": "Category: Accessories. Mechanical-style gaming keyboard with customizable lighting.",
+      "price": "2499.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 15
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 38,
+    "fields": {
+      "name": "SanDisk 128GB USB Drive",
+      "description": "Category: Accessories. Portable USB storage drive for documents, photos and backups.",
+      "price": "999.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 28
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 39,
+    "fields": {
+      "name": "Samsung 1TB Portable SSD",
+      "description": "Category: Storage. Portable solid-state drive for fast file transfers and backups.",
+      "price": "8999.00",
+      "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d7f3e4e2?auto=format&fit=crop&w=900&q=80",
+      "stock": 9
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 40,
+    "fields": {
+      "name": "TP-Link Wi-Fi 6 Router",
+      "description": "Category: Networking. Dual-band Wi-Fi router for stable home and small-office connectivity.",
+      "price": "4999.00",
+      "image_url": "https://images.unsplash.com/photo-1498050108023-c5249f4df085?auto=format&fit=crop&w=900&q=80",
+      "stock": 8
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 41,
+    "fields": {
+      "name": "Samsung 24-inch Monitor",
+      "description": "Category: Monitors. Full HD monitor for work, study and home entertainment.",
+      "price": "10999.00",
+      "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
+      "stock": 10
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 42,
+    "fields": {
+      "name": "LG 27-inch IPS Monitor",
+      "description": "Category: Monitors. 27-inch IPS monitor with clear visuals for productivity.",
+      "price": "16999.00",
+      "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
+      "stock": 6
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 43,
+    "fields": {
+      "name": "Acer Nitro 24-inch Gaming Monitor",
+      "description": "Category: Monitors. Gaming monitor with high refresh rate and responsive display.",
+      "price": "12999.00",
+      "image_url": "https://images.unsplash.com/photo-1527443224154-c4a3942d3acf?auto=format&fit=crop&w=900&q=80",
+      "stock": 5
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 44,
+    "fields": {
+      "name": "Xiaomi 43-inch Smart TV",
+      "description": "Category: Televisions. 43-inch smart television with streaming apps and high-definition picture.",
+      "price": "24999.00",
+      "image_url": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80",
+      "stock": 4
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 45,
+    "fields": {
+      "name": "Samsung 55-inch Crystal UHD TV",
+      "description": "Category: Televisions. 55-inch 4K smart TV for movies, sports and streaming.",
+      "price": "44999.00",
+      "image_url": "https://images.unsplash.com/photo-1593359677879-a4bb92f829d1?auto=format&fit=crop&w=900&q=80",
+      "stock": 3
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 46,
+    "fields": {
+      "name": "Mi Power Bank 20000mAh",
+      "description": "Category: Accessories. High-capacity portable power bank for compatible mobile devices.",
+      "price": "1999.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 24
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 47,
+    "fields": {
+      "name": "Anker 30W USB-C Charger",
+      "description": "Category: Accessories. Compact USB-C wall charger for compatible phones and tablets.",
+      "price": "1799.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 18
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 48,
+    "fields": {
+      "name": "Portronics Laptop Stand",
+      "description": "Category: Accessories. Adjustable laptop stand to improve desk ergonomics.",
+      "price": "1299.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 16
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 49,
+    "fields": {
+      "name": "Amazon Basics Laptop Sleeve 15.6",
+      "description": "Category: Accessories. Protective sleeve for carrying compatible laptops.",
+      "price": "899.00",
+      "image_url": "https://images.unsplash.com/photo-1587829741301-dc798b83add3?auto=format&fit=crop&w=900&q=80",
+      "stock": 20
+    }
+  },
+  {
+    "model": "shop.product",
+    "pk": 50,
+    "fields": {
+      "name": "SanDisk 256GB microSD Card",
+      "description": "Category: Storage. Removable storage card for compatible cameras and mobile devices.",
+      "price": "1899.00",
+      "image_url": "https://images.unsplash.com/photo-1597872200969-2b65d7f3e4e2?auto=format&fit=crop&w=900&q=80",
+      "stock": 13
+    }
+  }
+]
