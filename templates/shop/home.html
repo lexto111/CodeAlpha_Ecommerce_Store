@@ -1,0 +1,16 @@
+{% extends "base.html" %}
+{% block title %}Shop | Nova Store{% endblock %}
+{% block content %}
+<section class="hero"><div><p class="eyebrow">CURATED FOR EVERYDAY</p><h1>Find your next<br><span>favourite thing.</span></h1><p class="sub">Thoughtful essentials. Simple shopping. Delivered to you.</p><a class="button" href="#products">Explore products</a></div><div class="hero-art"><div class="orb">N</div><p>GOOD THINGS<br>LIVE HERE.</p></div></section>
+<div class="section-heading" id="products"><div><p class="eyebrow">THE COLLECTION</p><h2>Featured products</h2></div><span>{{ products|length }} items</span></div>
+<div class="grid">
+{% for product in products %}
+  <article class="card">
+    <a class="product-image" href="{% url 'product_detail' product.pk %}">
+      {% if product.image_url %}<img src="{{ product.image_url }}" alt="{{ product.name }}">{% else %}<div class="placeholder">N</div>{% endif %}
+    </a>
+    <div class="card-body"><h3><a href="{% url 'product_detail' product.pk %}">{{ product.name }}</a></h3><p class="muted">{{ product.description|truncatewords:12 }}</p><div class="card-bottom"><strong>₹{{ product.price }}</strong><a class="text-link" href="{% url 'product_detail' product.pk %}">View details →</a></div></div>
+  </article>
+{% empty %}<div class="empty"><h3>No products yet</h3><p>Add products through the Django admin at <code>/admin/</code>.</p></div>{% endfor %}
+</div>
+{% endblock %}
