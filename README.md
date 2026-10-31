@@ -1,6 +1,22 @@
-# Nova Store — Django E-commerce Website
+## Nova Store — Full Stack E-commerce Website 
 
-A beginner-friendly full-stack e-commerce website built with **Python, Django, HTML, CSS, JavaScript, and SQLite**. It demonstrates the core shopping flow: browsing products, viewing product details, managing a session-based cart, creating an account, checking out, and viewing previous orders.
+Developed by: god ferry lexto
+
+GitHub: https://github.com/lexto111
+
+Project: CodeAlpha Internship — Task 1
+
+Role: Python / Django Developer
+
+## About the Project
+
+I developed Nova Store as part of my CodeAlpha internship (Task 1 — Simple E-commerce Store).
+
+This project is a full-stack e-commerce web application developed using Python, Django, HTML, CSS, JavaScript and SQLite.
+
+The application allows users to browse products, view product details, create accounts, manage shopping carts, place orders and track their previous purchases.
+
+Through this project, I gained practical experience in Django web development, database management, user authentication, backend development and frontend integration.
 
 > Internship task: CodeAlpha — Task 1, Simple E-commerce Store
 
@@ -162,20 +178,17 @@ Capture your own screenshots after running the project. Suggested screenshots:
 
 Save them in a folder named `screenshots/` before submitting your GitHub repository.
 
-## GitHub upload
+## What I Learned
 
-Create a new public repository on GitHub, for example `django-ecommerce-store`. Then run these commands from the project folder:
+Through this project, I gained practical experience in:
 
-```bash
-git init
-git add .
-git commit -m "Build Django e-commerce store"
-git branch -M main
-git remote add origin https://github.com/YOUR-USERNAME/django-ecommerce-store.git
-git push -u origin main
-```
-
-Replace `YOUR-USERNAME` with your GitHub username. Do not commit passwords, secret keys, `.env` files, or your local database.
+- Building web applications using Django.
+- Creating and managing database models.
+- Implementing user registration and authentication.
+- Developing shopping cart functionality.
+- Handling order processing and stock management.
+- Integrating frontend and backend components.
+- Using Git and GitHub for version control.
 
 ## Limitations and production improvements
 
@@ -183,4 +196,14 @@ This is an educational starter project, not a production-ready store. It does no
 
 ## Author
 
-Add your name, GitHub profile, and contact details here before submitting.
+god ferry lexto
+
+GitHub: https://github.com/lexto111
+
+Project: Nova Store — full stack E-commerce Website
+
+Internship: CodeAlpha
+
+Task: Simple E-commerce Store
+
+If you find this project interesting, feel free to explore the repository.
